@@ -1,11 +1,4 @@
-## 💜 Olá, eu sou Grasiele! Seja Bem-Vindo(a) ao Meu Perfil !!! :octocat:
-
-<table border="0">
-      <tr>
-        <td>👩‍💻 Fiz curso de Programação Front-End na Proz Educação em parceria com a Amazon Web Services (AWS) e Meta.</td>
-        <td>🌱Atualmente estou no Sharp Coders 2023, programa de formação em desenvolvimento Full Stack C# da Imã Tech em parceria com a MXM.</td>
-      </tr>
-</table>
+<h1 align="center"> 💜 Olá, eu sou Grasiele! Seja Bem-Vindo(a) ao Meu Perfil !!! :octocat: </h1>
 
 <div align="center" >
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=grasieletinoco&theme=jolly&hide_border=false&include_all_commits=false&count_private=false">
@@ -15,14 +8,7 @@
 ##
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,mysql" />
-</div>
-
-##
-
-<div align="center" >
-  <h3>💻Estudando:<h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,typescript,angular,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,mysql,bootstrap,typescript,angular,cs" />
 </div>
 
 ##
